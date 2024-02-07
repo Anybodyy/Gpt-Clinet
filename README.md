@@ -4,7 +4,7 @@
 👤 Anybodyy
 
 * Github: [@Anybodyy](https://github.com/anybodyy)
-* Telegram: [@User_With_Username](t.me/User_With_Username)
+* Telegram: [@User_With_Username](t.me/RealAnybody)
 
 Thanks to the [@xtekky](https://github.com/xtekky). I was inspired by his project(gpt4free)
 
